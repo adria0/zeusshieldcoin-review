@@ -1,4 +1,6 @@
-# ZeusShieldCoin Token Sale Code Review
+![alt text](AAEAAQAAAAAAAAnVAAAAJDM3Y2YzMjIzLTBlNjAtNGU4MS05ZDI5LTkwNTI0NzY0ZGU5NQ.png)
+
+# codecontext.io ZeusShieldCoin Token Sale Code Review
 
 ## 1. Introduction
 This document summarizes our best effort to review the provided source code of the ZeusShieldCoin Token & the Token Sale solidity smart contracts. We reviewed the following contracts:
